@@ -2,6 +2,8 @@
 
 Welcome to our Hotel Booking Website! This frontend website allows users to browse, search, and book hotels conveniently. This README file will guide you through the project structure, installation, and usage.
 
+👉 Live Demo: <a href='https://priyanshu-su30.github.io/TOUR/index.html'>TOUR</a>
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
